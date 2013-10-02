@@ -1,0 +1,32 @@
+{
+
+  "name": "grunt-demo",
+
+  "version": "1.0.0",
+
+  "description": "Just a sample project for the purposes of learning Gruntjs.",
+
+  "author": {
+
+    "name": "Bryan Whyte"
+
+  },
+
+  "devDependencies": {
+
+    "grunt": "~0.4.1",
+
+    "grunt-contrib-compass": "~0.2.0",
+
+    "grunt-contrib-watch": "~0.4.3",
+
+    "grunt-contrib-uglify": "~0.2.4",
+
+    "grunt-contrib-jshint": "~0.6.4",
+
+    "grunt-contrib-concat": "~0.3.0",
+
+    "grunt-contrib-cssmin": "~0.6.2"
+
+  }
+}
