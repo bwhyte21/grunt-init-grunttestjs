@@ -1,4 +1,3 @@
-grunt_test
-==========
+##grunt_test
 
-Testing gruntjs scaffolding
+>Testing gruntjs scaffolding
